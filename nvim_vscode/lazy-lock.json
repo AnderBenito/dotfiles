@@ -1,0 +1,6 @@
+{
+  "gopher.nvim": { "branch": "main", "commit": "03cabf675ce129c28bd855969a3e569edcf63366" },
+  "lazy.nvim": { "branch": "main", "commit": "3ad55ae678876516156cca2f361c51f7952a924b" },
+  "nvim-treesitter": { "branch": "master", "commit": "0ba881b7a2af0e24962e4522cf15ebd642261a90" },
+  "plenary.nvim": { "branch": "master", "commit": "4cd4c29e39dd02efd906f98c03d2879237f50956" }
+}
